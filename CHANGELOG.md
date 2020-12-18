@@ -1,3 +1,7 @@
+## v1.3.4-b1
+
+`@databyss-org` fork release. Applied [PR #104](https://github.com/reach/router/pull/104/files) to allow full disabling of router and route component wrapping.
+
 ## v1.3.4
 
 - d7e4cfc Support forwarding url params with wildcard paths
